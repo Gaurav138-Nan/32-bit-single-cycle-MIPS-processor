@@ -6,6 +6,10 @@ In this project we are building a single cycle MIPS processor capable of executi
 The datapath
 
 
+![image](https://github.com/Gaurav138-Nan/32-bit-single-cycle-MIPS-processor/assets/75901646/4b876b78-7264-4fe2-9c44-8eb7a7eb8610)
+
+
+
 
 
 
@@ -51,6 +55,7 @@ First of the set of instructions that we are implementing are:
 Here $1 represents register number 1.
        
 
+![image](https://github.com/Gaurav138-Nan/32-bit-single-cycle-MIPS-processor/assets/75901646/6cf5cde6-ebee-46c9-8107-da61b6c71ce4)
 
 
 
