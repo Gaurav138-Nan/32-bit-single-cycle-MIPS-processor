@@ -25,7 +25,7 @@ In this project we are building a single cycle MIPS processor capable of executi
 
 
 
-The above datapath consists of roughly the below mentioned components:
+The above datapath consists of roughly the below mentioned components:<br/>
 •	Program Counter <br/>
 •	Instruction Memory<br/>
 •	Register File<br/>
